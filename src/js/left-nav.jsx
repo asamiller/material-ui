@@ -1,5 +1,4 @@
-var React = require('react'),
-  KeyCode = require('./utils/key-code.js'),
+var KeyCode = require('./utils/key-code.js'),
   Classable = require('./mixins/classable.js'),
   WindowListenable = require('./mixins/window-listenable.js'),
   Overlay = require('./overlay.jsx'),

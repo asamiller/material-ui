@@ -1,5 +1,3 @@
-var React = require('react');
-
 var TabTemplate = React.createClass({
 
   render: function(){

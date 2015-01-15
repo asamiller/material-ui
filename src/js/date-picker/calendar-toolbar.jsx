@@ -1,4 +1,3 @@
-var React = require('react');
 var DateTime = require('../utils/date-time.js');
 var IconButton = require('../icon-button.jsx');
 var SlideInTransitionGroup = require('../transition-groups/slide-in.jsx');

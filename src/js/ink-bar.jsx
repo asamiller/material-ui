@@ -1,5 +1,3 @@
-var React = require('react');
-
 var InkBar = React.createClass({
   
   propTypes: {

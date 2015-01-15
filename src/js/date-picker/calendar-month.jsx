@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('../mixins/classable');
 var DateTime = require('../utils/date-time.js');
 var DayButton = require('./day-button.jsx');

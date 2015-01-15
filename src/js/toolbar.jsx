@@ -1,7 +1,7 @@
 /** @jsx React.DOM */
 
 var Classable = require('./mixins/classable.js');
-var React = require('react');
+
 
 var Toolbar = React.createClass({
 

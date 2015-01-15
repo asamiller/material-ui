@@ -1,5 +1,4 @@
-var React = require('react'),
-  Classable = require('./mixins/classable.js'),
+var Classable = require('./mixins/classable.js'),
   IconButton = require('./icon-button.jsx'),
   Paper = require('./paper.jsx');
 

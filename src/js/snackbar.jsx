@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('./mixins/classable');
 var ClickAwayable = require('./mixins/click-awayable');
 var FlatButton = require('./flat-button.jsx');

@@ -1,5 +1,4 @@
-var React = require('react'),
-    Classable = require('./mixins/classable.js'),
+var Classable = require('./mixins/classable.js'),
     Paper = require('./paper.jsx');
 
 var Toggle = React.createClass({

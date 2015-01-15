@@ -1,5 +1,4 @@
-var React = require('react'),
-    Paper = require('./paper.jsx'),
+var Paper = require('./paper.jsx'),
     Classable = require('./mixins/classable.js');
 
 var RadioButton = React.createClass({

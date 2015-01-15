@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('./mixins/classable.js');
 var EnhancedButton = require('./enhanced-button.jsx');
 var Icon = require('./icon.jsx');

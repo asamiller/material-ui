@@ -1,5 +1,4 @@
-var React = require('react'),
-  CssEvent = require('./utils/css-event.js'),
+var CssEvent = require('./utils/css-event.js'),
   Dom = require('./utils/dom.js'),
   KeyLine = require('./utils/key-line.js'),
   Classable = require('./mixins/classable.js'),

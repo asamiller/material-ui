@@ -1,4 +1,3 @@
-var React = require('react');
 var KeyCode = require('./utils/key-code.js');
 var Classable = require('./mixins/classable.js');
 var WindowListenable = require('./mixins/window-listenable');

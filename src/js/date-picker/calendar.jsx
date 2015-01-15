@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('../mixins/classable.js');
 var WindowListenable = require('../mixins/window-listenable.js');
 var DateTime = require('../utils/date-time.js');

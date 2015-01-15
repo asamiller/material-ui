@@ -1,4 +1,3 @@
-var React = require('react');
 var Tab = require('./tab.jsx');
 var TabTemplate = require('./tabTemplate.jsx');
 var InkBar = require('../ink-bar.jsx');

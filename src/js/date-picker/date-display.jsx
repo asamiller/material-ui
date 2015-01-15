@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('../mixins/classable.js');
 var DateTime = require('../utils/date-time.js');
 var SlideInTransitionGroup = require('../transition-groups/slide-in.jsx');

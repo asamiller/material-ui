@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('./mixins/classable');
 var DialogWindow = require('./dialog-window.jsx');
 var FlatButton = require('./flat-button.jsx');

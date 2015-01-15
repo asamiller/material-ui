@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('../mixins/classable');
 
 var FocusRipple = React.createClass({

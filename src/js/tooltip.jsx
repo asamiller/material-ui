@@ -1,4 +1,3 @@
-var React = require('react');
 var Classable = require('./mixins/classable.js');
 
 var Tooltip = React.createClass({

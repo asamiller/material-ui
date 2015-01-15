@@ -1,5 +1,4 @@
-var React = require('react'),
-  Classable = require('./mixins/classable.js'),
+var Classable = require('./mixins/classable.js'),
   ClickAwayable = require('./mixins/click-awayable'),
   KeyLine = require('./utils/key-line.js'),
   Paper = require('./paper.jsx'),

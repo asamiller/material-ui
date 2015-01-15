@@ -1,6 +1,4 @@
-﻿
-var React = require('react'),
-    Paper = require('./paper.jsx'),
+﻿var Paper = require('./paper.jsx'),
     Classable = require('./mixins/classable.js'),
     Draggable = require('react-draggable2');
 
